@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PilotAIO and Pilot Autofill 
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently working on FrenzyAIO
+- 🌱 I’m currently building node.js applications 
 
-## My GitHub status
+## My GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpall12&count_private=true)
 
+## Contact
+
+- I can be reached on discord @Jap00_#0388
