@@ -9,4 +9,4 @@
 
 ## Contact
 
-- I can be reached on discord @Jap00_#0388
+- I can be reached on Discord @Jap00_#0388
