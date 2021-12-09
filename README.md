@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on FrenzyAIO
-- 🌱 I’m currently building node.js applications 
+- My name is Julian.
+- I'm currently building various bots for Modular Software and Obser Labs.
 
 ## My GitHub stats
 
