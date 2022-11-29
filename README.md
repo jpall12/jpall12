@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Julian.
-- I'm currently building various bots for Modular Software and Obser Labs.
+- I am currently an intern at [Kashmir World Foundation](https://kashmirworldfoundation.org/) where I work to apply the power of AI to save wildlife in the Himalayan region.
 
 ## My GitHub stats
 
