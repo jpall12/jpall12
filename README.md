@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Julian.
-- I'm a HS junior interested in technology 
+- I'm a HS Senior interested in technology 
 
 ## Contact
 
