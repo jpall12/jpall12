@@ -16,4 +16,4 @@
 -  [julianpallanez.dev](https://julianpallanez.dev) •  Portfolio  
 -  **Email:** `[Your_Name_Here]@julianp.xyz`
 
-> Looking for summer internships or collaborations in backend / ML.
+> Looking for summer internships in tech field working with hardware and software.
